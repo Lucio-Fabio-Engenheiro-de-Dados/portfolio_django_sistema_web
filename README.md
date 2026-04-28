@@ -45,44 +45,18 @@ O Django já vem com diversas funcionalidades prontas, o que acelera muito o des
 ## Arquitetura do Projeto
 
 <p align="center">
-  <a href="arquitetura_django_web_framework.png">
-    <img src="arquitetura_django_web_framework.png" alt="Arquitetura do Projeto" width="900"/>
+  <a href="imagens/arquitetura_django_web_framework.png">
+    <img src="imagens/arquitetura_django_web_framework.png" alt="Arquitetura do Projeto" width="900"/>
   </a>
 </p>
 
-## Estrutura do Projeto
+## 🖼️ Estrutura do Projeto Django
 
-portfolio_django_web/
-│
-├── README.md
-├── .gitignore
-├── requirements.txt
-│
-├── projeto/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── asgi.py
-│   └── wsgi.py
-│
-├── apps/
-│   └── core/
-│       ├── __init__.py
-│       ├── admin.py
-│       ├── apps.py
-│       ├── models.py
-│       ├── tests.py
-│       ├── urls.py
-│       ├── views.py
-│       ├── templates/
-│       │   └── core/
-│       │       └── home.html
-│       └── static/
-│           └── core/
-│               └── css/
-│                   └── style.css
-│
-└── manage.py
+<p align="center">
+  <a href="imagens/estrutura_projeto_django.png">
+    <img src="imagens/estrutura_projeto_django.png" alt="Estrutura do Projeto Django" width="900"/>
+  </a>
+</p>
 
 ## 📚 Conteúdos Abordados 
 
