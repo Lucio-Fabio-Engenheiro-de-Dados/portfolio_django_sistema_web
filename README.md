@@ -50,11 +50,12 @@ O Django já vem com diversas funcionalidades prontas, o que acelera muito o des
   </a>
 </p>
 
+
 ## 🖼️ Estrutura do Projeto Django
 
 <p align="center">
-  <a href="imagens/arquitetura_django_web_framework.png">
-    <img src="imagens/arquitetura_django_web_framework.png" alt="Arquitetura do Projeto" width="900"/>
+  <a href="imagens/estrutura_projeto_django.png">
+    <img src="imagens/estrutura_projeto_django.png" alt="Estrutura do Projeto Django" width="900"/>
   </a>
 </p>
 
