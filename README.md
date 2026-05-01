@@ -133,7 +133,7 @@ Com o Django, você pode desenvolver:
 ## 🖼️ Tela Inicial do Sistema
 
 <p align="center">
-  <a href="http://127.0.0.1:8000/" target="_blank">
+  <a href="imagens/tela_home_1.png"  
     <img src="imagens/tela_home_1.png" alt="Tela inicial Django" width="800"/>
   </a>
 </p>
