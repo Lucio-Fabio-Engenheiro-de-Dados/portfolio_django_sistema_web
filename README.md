@@ -133,7 +133,7 @@ Com o Django, você pode desenvolver:
 ## 🖼️ Tela Inicial do Sistema
 
 <p align="center">
-  <a href="imagens/tela_home_1.png"  
+  <a href="imagens/tela_home_1.png">
     <img src="imagens/tela_home_1.png" alt="Tela inicial Django" width="800"/>
   </a>
 </p>
