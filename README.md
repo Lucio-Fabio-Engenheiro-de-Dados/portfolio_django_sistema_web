@@ -134,10 +134,10 @@ Com o Django, você pode desenvolver:
 
 <p align="center">
   <a href="http://127.0.0.1:8000/" target="_blank">
-    <img src="img/tela_home_1.png" alt="Tela inicial Django" width="800"/>
+    <img src="imagens/tela_home_1.png" alt="Tela inicial Django" width="800"/>
   </a>
 </p>
-
+ 
 ## 📌 Conclusão
 
 O Django é uma das ferramentas mais completas para desenvolvimento web com Python.
